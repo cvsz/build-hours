@@ -14,7 +14,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.503.0",
-    "next": "15.3.1",
+    "next": "15.5.21",
     "openai": "^4.96.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -32,7 +32,7 @@
     "autoprefixer": "^10.4.21",
     "eslint": "^9",
     "eslint-config-next": "15.3.1",
-    "postcss": "^8.5.3",
+    "postcss": "^8.5.18",
     "tailwindcss": "^4.1.4",
     "tw-animate-css": "^1.2.8",
     "typescript": "^5"
